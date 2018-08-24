@@ -1,5 +1,6 @@
 # MNIST_using_perceptron
-Using perceptron  in sklearn I have predicted MNIST 
+Using perceptron  in sklearn I have predicted digits using MNIST datasets.
+
 Requirments:
 1. python 3.6
 2. sklearn 
